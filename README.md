@@ -6,6 +6,7 @@ Work :-
     • User Control
  
 1 - It operates on assesment website where user open the test page and activate the website.
+
 2 - After that User will enter their name, Email and password or Invitation code then click on the start test.
 3 - It can take access to usre's camera and microphone.
 4 - After starting the test, Timer will be start and user can not get back to the question if any question time will be end. 
